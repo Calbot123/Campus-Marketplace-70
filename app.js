@@ -50,6 +50,7 @@ if (signInButton) {
     });
 }
 
+
 const itemList = document.getElementById("itemList");
 
 if (itemList) {
